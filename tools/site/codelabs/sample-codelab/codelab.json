@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-01-21T07:56:19-05:00",
+  "id": "sample-codelab",
+  "duration": 15,
+  "title": "Test Code Lab",
+  "summary": "Summary of your codelab that is human readable",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://zarin.io",
+  "ga": "Google Analytics ID",
+  "url": "sample-codelab"
+}
